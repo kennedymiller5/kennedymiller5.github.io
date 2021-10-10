@@ -1,0 +1,35 @@
+/* font-family: 'Abril Fatface', cursive; */
+/* font-family: 'PT Sans Narrow', sans-serif; */
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h3 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+p {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h4 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h5 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+h6 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+#color-palette {
+    color: white;
+    border: black 2px;
+    padding: 10px;
+}
