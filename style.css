@@ -33,3 +33,38 @@ h6 {
     border: black 2px;
     padding: 10px;
 }
+
+.color-1 {
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    color: #AD4991;
+}
+
+.color-2 {
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    color: #FAEC9B;
+}
+
+.color-3 {
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    color: #FA82D8;
+}
+
+.color-4 {
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    color: #69F7FA;
+}
+
+.color-5 {
+    display: inline-block;
+    height:150px;
+    width: 150px;
+    color: #51ACAD;
+}
