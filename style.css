@@ -38,33 +38,33 @@ h6 {
     display: inline-block;
     height:150px;
     width: 150px;
-    color: #AD4991;
+    background-color: #AD4991;
 }
 
 .color-2 {
     display: inline-block;
     height:150px;
     width: 150px;
-    color: #FAEC9B;
+    background-color: #FAEC9B;
 }
 
 .color-3 {
     display: inline-block;
     height:150px;
     width: 150px;
-    color: #FA82D8;
+    background-color: #FA82D8;
 }
 
 .color-4 {
     display: inline-block;
     height:150px;
     width: 150px;
-    color: #69F7FA;
+    background-color: #69F7FA;
 }
 
 .color-5 {
     display: inline-block;
     height:150px;
     width: 150px;
-    color: #51ACAD;
+    background-color: #51ACAD;
 }
