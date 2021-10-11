@@ -68,3 +68,8 @@ h6 {
     width: 150px;
     background-color: #51ACAD;
 }
+
+img {
+    margin: 15px;
+    width: 300px;
+}
