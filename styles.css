@@ -1,8 +1,18 @@
 h1 {
     font-size: 36px;
-    color: #33485e;
+    color: #AD4991;
+    font-family: 'Abril Fatface', cursive;
 }
 
 img {
     width: 300px;
+}
+
+.head-links {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+    color: #AD4991;
+    display: inline;
+    flex-direction: row;
+    justify-content: right;
 }
