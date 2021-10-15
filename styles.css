@@ -1,19 +1,13 @@
 h1 {
     font-size: 36px;
     color: #779CA6;
-    font-family: 'Playfair Display', serif;
-}
-
-img {
-    width: 300px;
-}
-
-.head-links {
-    font-family: 'Playfair Display', serif;
-    font-size: 30px;
-    color: #B3E6F3;
+    font-family: 'Antic', sans-serif;
     display: inline;
     flex-direction: row;
     justify-content: right;
     align-items: flex-end;
+}
+
+img {
+    width: 300px;
 }
