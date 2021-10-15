@@ -1,31 +1,31 @@
-/* font-family: 'Abril Fatface', cursive; */
-/* font-family: 'PT Sans Narrow', sans-serif; */
+/* font-family: 'Playfair Display', serif; */
+/*font-family: 'Yanone Kaffeesatz', sans-serif;*/
 h1 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 h2 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 h3 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 p {
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
 
 h4 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 h5 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 h6 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
 }
 
 #color-palette {
@@ -38,35 +38,35 @@ h6 {
     display: inline-block;
     height:150px;
     width: 150px;
-    background-color: #AD4991;
+    background-color: #A69C77;
 }
 
 .color-2 {
     display: inline-block;
     height:150px;
     width: 150px;
-    background-color: #FAEC9B;
+    background-color: #F2EBD3;
 }
 
 .color-3 {
     display: inline-block;
     height:150px;
     width: 150px;
-    background-color: #FA82D8;
+    background-color: #F2C7E4;
 }
 
 .color-4 {
     display: inline-block;
     height:150px;
     width: 150px;
-    background-color: #69F7FA;
+    background-color: #779CA6;
 }
 
 .color-5 {
     display: inline-block;
     height:150px;
     width: 150px;
-    background-color: #51ACAD;
+    background-color: #B3E6F3;
 }
 
 img {

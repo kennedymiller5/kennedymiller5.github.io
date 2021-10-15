@@ -1,7 +1,7 @@
 h1 {
     font-size: 36px;
-    color: #AD4991;
-    font-family: 'Abril Fatface', cursive;
+    color: #779CA6;
+    font-family: 'Playfair Display', serif;
 }
 
 img {
@@ -9,10 +9,11 @@ img {
 }
 
 .head-links {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Playfair Display', serif;
     font-size: 30px;
-    color: #AD4991;
+    color: #B3E6F3;
     display: inline;
     flex-direction: row;
     justify-content: right;
+    align-items: flex-end;
 }
