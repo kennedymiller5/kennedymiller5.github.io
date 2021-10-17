@@ -1,6 +1,6 @@
 body {
     width: 60%;
-    margin: 60px auto;
+    margin: 50px auto;
 }
 
 h1 {
@@ -13,12 +13,11 @@ h1 {
     align-items: flex-end;
     width: 80%;
     margin: 0 auto 50px auto;
-    background-color: #A69C77;
 }
 
 img {
     width: 100%;
-    margin: 60px auto;
+    margin: 50px auto;
 }
 
 .head-links{
@@ -28,5 +27,5 @@ img {
     flex-direction: row;
     justify-content: flex-end;
     width: 80%;
-    margin: 0 auto 60px auto;
+    margin: 0 auto 50px auto;
 }
