@@ -1,8 +1,6 @@
 body {
-    width: 300px;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
+    width: 60%;
+    margin: 60px auto;
 }
 
 h1 {
@@ -13,16 +11,22 @@ h1 {
     flex-direction: row;
     justify-content: right;
     align-items: flex-end;
+    width: 80%;
+    margin: 0 auto 50px auto;
+    background-color: #A69C77;
 }
 
 img {
     width: 100%;
-    height: auto;
+    margin: 60px auto;
 }
 
 .head-links{
     font-size: 30px;
     color: #779CA6;
     font-family: 'Antic', sans-serif;
-justify-content: right;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 80%;
+    margin: 0 auto 60px auto;
 }
