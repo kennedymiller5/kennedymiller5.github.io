@@ -1,3 +1,10 @@
+body {
+    width: 300px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+}
+
 h1 {
     font-size: 36px;
     color: #779CA6;
@@ -9,5 +16,13 @@ h1 {
 }
 
 img {
-    width: 300px;
+    width: 100%;
+    height: auto;
+}
+
+.head-links{
+    font-size: 30px;
+    color: #779CA6;
+    font-family: 'Antic', sans-serif;
+justify-content: right;
 }
