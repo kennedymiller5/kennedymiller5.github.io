@@ -1,13 +1,18 @@
 body {
-    width: 80%;
-    margin: 50px auto;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row;
     text-align: center;
 }
 
 header {
     color: #779CA6;
     width: 100%;
-    margin: 50px auto;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -22,15 +27,35 @@ header {
 
 .head-links {
     display: flex;
-    justify-content: flex-end space-between;
+    justify-content: flex-end;
+    align-content: space-between;
     font-size: 40px;
     font-family: 'Antic', sans-serif;
+    color: #779CA6;
 }
 
 img {
     width: 100%;
-    margin: 50px auto;
+    margin: 0 auto;
 }
+
+.intro {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: #A69C77
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,33 +65,6 @@ img {
 
 
 /* DESKTOP FIRST APPROACH */
-
-
-/* Large devices (laptops/desktops, up to 1200px) */
-@media only screen and (max-width: 1200px) {
-    img {
-        width: 100%;
-        margin: 20px auto;
-    }
-
-    .head-links {
-        display: flex;
-        flex-direction: column;
-    }
-}
-
-/* Medium devices (landscape tablets, 768px and up to 992px) */
-@media only screen and (max-width: 992px) {
-    img {
-        width: 100%;
-        margin: 20px auto;
-    }
-
-    .head-links {
-        display: flex;
-        flex-direction: column;
-    }
-}
 
 /* Small devices (portrait tablets and large phones, up to 768px) */
 @media only screen and (max-width: 768px){
