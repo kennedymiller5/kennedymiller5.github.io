@@ -46,6 +46,23 @@ img {
     color: #A69C77
 }
 
+.passionate-about h1 {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Antic', sans-serif;
+    color: #779CA6;
+}
+
+.passionate-about {
+    font-size: 30px;
+    font-family: 'Antic', sans-serif;
+    color: #779CA6;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    flex-direction: row;
+}
 
 
 
