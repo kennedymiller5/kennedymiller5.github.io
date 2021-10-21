@@ -103,8 +103,9 @@ h3.bio {
 }
 
 image.profile {
-    height: auto;
-    width: 15px;
+    margin: 0 auto 15px;
+    height: 150px;
+    width: 150px;
 }
 
 .resume {
@@ -149,9 +150,22 @@ ul.list {
 
 
 
+/*Work Samples*/
 
+.design-samples {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    flex-direction: row;
+    margin-bottom: 15px;
+    gap: 10px;
+}
 
-
+img.design-samples {
+    height: auto;
+    width: 100px;
+}
 
 
 
