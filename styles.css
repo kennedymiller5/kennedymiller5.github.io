@@ -16,6 +16,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0px 20px;
 }
 
 .name {
@@ -29,8 +30,17 @@ header {
     display: flex;
     justify-content: flex-end;
     align-content: space-between;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Antic', sans-serif;
+    color: #779CA6;
+    gap: 15px;
+}
+
+a {
+    color: #779CA6;
+}
+
+a:visited {
     color: #779CA6;
 }
 
@@ -46,7 +56,7 @@ img {
     color: #A69C77
 }
 
-.passionate-about h1 {
+h1.passionate-about-title {
     text-align: center;
     font-size: 55px;
     font-family: 'Antic', sans-serif;
@@ -62,8 +72,11 @@ img {
     align-content: center;
     text-align: center;
     flex-direction: row;
+    margin-bottom: 15px;
+    gap: 10px;
 }
 
+/*Resume Page*/
 
 
 
